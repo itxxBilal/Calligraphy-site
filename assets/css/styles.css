@@ -1016,3 +1016,8 @@ height: 2.40rem;
   50%  { transform: translate(0, 15px); }
   100%   { transform: translate(0, -0px); }   
 }
+
+.x{
+  width: 17px;
+  height: 15px;
+}
